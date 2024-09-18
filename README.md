@@ -8,18 +8,19 @@ PORT=5050
 
 Start server:
 ```
-cd mern/server
+cd server
 npm install
 npm start
 ```
 
 Start Web server
 ```
-cd mern/client
+cd client
 npm install
 npm run dev
 ```
 
 ## Disclaimer
+#check master branch for the code files
 
 Use at your own risk; not a supported MongoDB product
